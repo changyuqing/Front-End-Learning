@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+学习了html的及本框架，还有学习了一堆标签。这些都很简单。就是一开始没搞清哪个插件而已。
+任务中的删除线，上标，分割线视频中没有提到，我就直接去网上搜索，还有学会了怎么给内容加一个环绕标签。
