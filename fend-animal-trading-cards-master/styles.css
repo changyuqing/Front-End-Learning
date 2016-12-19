@@ -1,0 +1,49 @@
+/* add your CSS here */
+*
+{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+h3
+{
+    font-size: 18px;
+
+    margin-top: 4px;
+}
+#card
+{
+    width: 300px;
+    padding: 10px;
+
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 5px #d1cece;
+}
+#card img
+{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#description
+{
+    padding: 10px;
+
+    border: 1px solid #ccc;
+}
+.interesting-fact
+{
+    font-style: italic;
+}
+.items
+{
+    padding: 0;
+}
+.items li
+{
+    list-style: none;
+}
+.items li span
+{
+    font-size: 13px;
+    font-weight: bold;
+}
